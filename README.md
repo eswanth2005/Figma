@@ -81,7 +81,8 @@ Figma
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (68).png>)
+![Screenshot -exp9](https://github.com/eswanth2005/Figma/assets/164656722/a3393940-e077-428a-a8c7-9a985c1d39ca)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
